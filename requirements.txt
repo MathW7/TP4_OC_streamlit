@@ -1,0 +1,6 @@
+streamlit
+pillow
+piexif
+folium
+streamlit_folium
+geopy
